@@ -1,0 +1,12 @@
+python-dotenv
+wikipedia
+arxiv
+fpdf2
+beautifulsoup4
+langchain
+langchain-community
+langchain-openai
+langgraph
+tavily-python
+langchain-tavily
+langgraph-checkpoint-sqlite
