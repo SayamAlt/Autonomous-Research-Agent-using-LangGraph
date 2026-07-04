@@ -77,13 +77,7 @@ web_search  wikipedia  arxiv
 
 ## Setup and Installation
 
-### Step 1: Go to the project folder
-
-```bash
-cd "Xiarch Agentic AI Assessment"
-```
-
-### Step 2: Create and activate a virtual environment
+### Step 1: Create and activate a virtual environment
 
 ```bash
 python3 -m venv venv
@@ -91,13 +85,13 @@ source venv/bin/activate        # macOS and Linux
 # venv\Scripts\activate         # Windows
 ```
 
-### Step 3: Install all dependencies
+### Step 2: Install all dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### Step 4: Add API keys
+### Step 3: Add API keys
 
 Create a `.env` file in the project root with these two values:
 
